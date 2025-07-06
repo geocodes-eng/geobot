@@ -1,6 +1,7 @@
 # 🌍 Geo Agent Demo
 
-A powerful Gradio application that combines intelligent coordinate analysis with AI chat capabilities for geological data exploration and liquefaction susceptibility assessment.
+A powerful Gradio application that combines intelligent coordinate analysis with AI chat capabilities for liquefaction susceptibility assessment.
+[https://huggingface.co/spaces/GeotechnicalCoder/geobot]
 
 ## 🚀 Features
 
@@ -17,12 +18,6 @@ A powerful Gradio application that combines intelligent coordinate analysis with
 - **Powered by Qwen**: Uses Qwen/Qwen3-0.6B model for intelligent conversations
 - **General Knowledge**: Also handles general questions and conversations
 
-## 🎯 Use Cases
-
-- **Geological Surveys**: Quick liquefaction assessment for field work
-- **Engineering Projects**: Site evaluation and risk assessment
-- **Educational Purposes**: Learning about geological data and coordinate systems
-- **Research**: Data exploration and analysis
 
 ## 💻 Usage
 
@@ -61,8 +56,6 @@ Can you check 1511300, 5266130 for me?
 Hello, what can you help me with?
 What is liquefaction susceptibility?
 How do I use this application?
-Tell me about NZTM coordinates
-What are the risks of liquefaction?
 ```
 
 ## 🚀 Deployment
