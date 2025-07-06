@@ -1,7 +1,7 @@
 # 🌍 Geo Agent Demo
 
 A powerful Gradio application that combines intelligent coordinate analysis with AI chat capabilities for liquefaction susceptibility assessment.
-[https://huggingface.co/spaces/GeotechnicalCoder/geobot]
+[Link to the app.](https://huggingface.co/spaces/GeotechnicalCoder/geobot)
 
 ## 🚀 Features
 
